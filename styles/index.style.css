@@ -760,6 +760,7 @@ input[type="email"]:focus {
 		margin-bottom: 300px !important;
 	}
 
+
 	.author {
 		position: fixed !important;
 		bottom: 0 !important;
@@ -827,4 +828,8 @@ input[type="email"]:focus {
 
 #copyright {
 	color: white;
+}
+
+.disabled {
+	opacity: 0.75;
 }
